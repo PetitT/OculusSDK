@@ -1,0 +1,18 @@
+{
+    "name": "Oculus.OVROverlayCanvas.editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:bbb0449e4b6eaf94cb38acb0961cd3ba"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

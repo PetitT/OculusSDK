@@ -1,0 +1,19 @@
+{
+    "name": "Oculus.Video.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:bbb0449e4b6eaf94cb38acb0961cd3ba",
+        "GUID:caa14327957179e4e8eab37cd17d88de"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
